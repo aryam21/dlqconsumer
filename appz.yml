@@ -48,6 +48,6 @@
       CELERY_BROKER_URL: amqp://guest:guest@rabbitmq-3-12:5672//
       MONGO_URI: mongodb://dedupe_user:g6MCKbTq5gXZ19uEs7w7VQ@mongodedupe-6-0-0.mongodedupe-6-0:27017,mongodedupe-6-0-1.mongodb-6-0:27017/dedupe_db?authSource=admin&replicaSet=rs0&readPreference=secondaryPreferred&w=majority&retryWrites=true&connectTimeoutMS=10000&serverSelectionTimeoutMS=10000&maxPoolSize=300&minPoolSize=10&maxIdleTimeMS=300000&waitQueueMultiple=10
       MONGO_DB: dedupe_db
-    revision: 1
+    revision: 2
         
     
