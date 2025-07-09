@@ -1,6 +1,6 @@
     app:
-        name: dlqconsumermaster
-        code: DLQCONSUMERMASTER
+        name: dlqconsumer
+        code: DLQCONSUMER
         notify: aramanan@ecloudcontrol.com
         
     build:
